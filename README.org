@@ -1,3 +1,15 @@
 * Emacscasts
 
-Notes and cheatsheets for my emacscasts.
+The holy notes and cheatsheets for my emacscasts. :-)
+
+** Software used
+   
+   - Screencasting: ffcast
+
+#+BEGIN_SRC bash
+ffcast -w ffmpeg -r 25 -- -f alsa -i hw:0 -vcodec libx264 cast.mkv)
+#+END_SRC
+
+   - Keyboard monitor: key-mon
+   - Emacs v24
+
