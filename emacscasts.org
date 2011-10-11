@@ -1,0 +1,50 @@
+* Emacscasts
+** Dired mode - The Basics
+*** What is Dired mode
+*** Basic file management
+**** Copy a file
+**** Delete a file
+**** Rename a file
+**** Create a new directory
+**** Compress/Decompress file by gzip
+**** Changing file mode
+**** Changing mode
+*** Handling multiple files
+**** Marking files
+***** by regular expression
+**** Unmarking files
+**** Operations over marked files
+** Dired mode #2 - Sharpening the axe
+*** Navigation
+**** Move to previous line - p
+**** Move to next line - n
+**** Move up to previous directory line - <
+**** Move down to next directory line - >
+*** Immediate Actions on Files
+**** Visit current file - f
+
+**** Visit current file in other buffer - o
+
+**** Visit current file in other frame - o
+
+**** View current file read-only - v
+
+*** More advanced operations
+**** Marking files for deletion, and then eXecute queued deletions
+
+**** Change owner - O
+
+**** Change group - G
+
+**** Copy filename - w
+
+**** Convert filename(s) to lower-case - %l
+
+*** Enhanced marking
+**** Mark files with a given extension - * .
+**** Mark all directories - * /
+**** Mark all symlinks - * @
+**** Mark all executables - * *
+**** Invert marking - * t
+**** Mark all files in the current subdir - * s
+**** Mark all backup files (ending with ~) - ~
