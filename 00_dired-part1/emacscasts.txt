@@ -1,0 +1,66 @@
+                       Dired mode - The Basics
+                       =======================
+
+Author: Kenny Meyer <knny.myer@gmail.com>
+Date: 2011-10-11 Tue
+
+
+Table of Contents
+=================
+1 What is Dired mode 
+2 Basic file management 
+    2.1 Copy a file 
+    2.2 Delete a file 
+    2.3 Rename a file 
+    2.4 Create a new directory 
+    2.5 Compress/Decompress file by gzip 
+    2.6 Changing file mode 
+    2.7 Changing mode 
+3 Handling multiple files 
+    3.1 Marking files 
+        3.1.1 by regular expression 
+    3.2 Unmarking files 
+    3.3 Operations over marked files 
+
+
+1 What is Dired mode 
+---------------------
+
+2 Basic file management 
+------------------------
+
+2.1 Copy a file 
+================
+
+2.2 Delete a file 
+==================
+
+2.3 Rename a file 
+==================
+
+2.4 Create a new directory 
+===========================
+
+2.5 Compress/Decompress file by gzip 
+=====================================
+
+2.6 Changing file mode 
+=======================
+
+2.7 Changing mode 
+==================
+
+3 Handling multiple files 
+--------------------------
+
+3.1 Marking files 
+==================
+
+3.1.1 by regular expression 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+3.2 Unmarking files 
+====================
+
+3.3 Operations over marked files 
+=================================
