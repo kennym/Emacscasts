@@ -1,5 +1,24 @@
+#+TITLE:     Emacscasts Notes
+#+AUTHOR:    Kenny Meyer
+#+EMAIL:     knny.myer@gmail.com
+#+DATE:      2011-10-11 Tue
+#+DESCRIPTION:
+#+KEYWORDS:
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT:
 * Emacscasts
 ** Dired mode - The Basics
+   :PROPERTIES:
+   :VIDEO_URL: http://www.youtube.com/watch?v=k5EucNdisCo
+   :END:
+
 *** What is Dired mode
 *** Basic file management
 **** Copy a file
@@ -14,12 +33,17 @@
 ***** by regular expression
 **** Unmarking files
 **** Operations over marked files
+
 ** Dired mode #2 - Sharpening the axe
 *** Navigation
 **** Move to previous line - p
+
 **** Move to next line - n
+
 **** Move up to previous directory line - <
+
 **** Move down to next directory line - >
+
 *** Immediate Actions on Files
 **** Visit current file - f
 
